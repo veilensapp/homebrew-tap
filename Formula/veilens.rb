@@ -5,7 +5,7 @@ class Veilens < Formula
   # (downloads the veilens-macos.tar.gz release asset and fills in its checksum).
   version "0.1.1"
   url "https://github.com/veilensapp/cli/releases/download/v0.1.1/veilens-macos.tar.gz"
-  sha256 "b2164233fe5ddedefe5ae2c342d334987cbfc7fafb309cdb8111896f36e275db"
+  sha256 "8209d84833d3499092eddbf5cc3c15d6a5ba727ef525b95fb3a922060401d307"
 
   depends_on :macos
 
